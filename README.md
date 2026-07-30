@@ -1,2 +1,2 @@
-# MotionMatching_Test
-MotionMatching Test Implementation with Quadruped
+# Simple-Quadruped-Controller
+Basic controller implementation
